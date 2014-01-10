@@ -1,0 +1,9 @@
+x
+x^2
+e^x
+e^(-x)
+2*x^2-4
+s*x^2
+s*sin(x)
+s*x^2+8*sin(x)
+sin(x)/x
